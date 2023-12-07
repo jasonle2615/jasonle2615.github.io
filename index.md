@@ -6,7 +6,7 @@ This is my home page! My name is Jason Le and I am a student at CSUF and my majo
 
 * Lab 1
 
-    Lab 1 is one of my three favorite labs because it gives me a fresh start into the coding world in Computer Science. I learned common codes throughout future labs like std::cout, and return. 
+    Lab 1 is one of my three favorite labs because it gives me a fresh start into the coding world in Computer Science. I learned common codes throughout future labs like std::cout, and return. I also learned the basic commands on the terminal, like cd, ls, git add, git push, etc.
 
 * Lab 6
 
