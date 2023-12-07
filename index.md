@@ -1,12 +1,8 @@
-# Hello World
+# Jason Le's Portfolio
 
-This is my home page! My name is Jason Le and I am a student at [Cal State Fullerton](http://www.fullerton.edu/) and my major is Computer Engineering.
+This is my home page! My name is Jason Le and I am a student at CSUF and my major is Computer Engineering. I plan on graduating in 2027.
 
-## Computer Science Projects
-
-My GitHub page is http://github.com/jasonle2615.
-
-### CPSC 120
+## Favorite CPSC 120L Labs
 
 * Lab 1
 
